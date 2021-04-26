@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/static/js/main.34f3e222.chunk.js",
+    "main.js.map": "/static/js/main.34f3e222.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35f39161.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35f39161.js.map",
+    "static/js/2.ac11e7b4.chunk.js": "/static/js/2.ac11e7b4.chunk.js",
+    "static/js/2.ac11e7b4.chunk.js.map": "/static/js/2.ac11e7b4.chunk.js.map",
+    "static/js/3.67d0cbd7.chunk.js": "/static/js/3.67d0cbd7.chunk.js",
+    "static/js/3.67d0cbd7.chunk.js.map": "/static/js/3.67d0cbd7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ac11e7b4.chunk.js.LICENSE.txt": "/static/js/2.ac11e7b4.chunk.js.LICENSE.txt",
+    "static/media/ele-avg.498567b0.png": "/static/media/ele-avg.498567b0.png",
+    "static/media/ele-max.b51efeb2.png": "/static/media/ele-max.b51efeb2.png",
+    "static/media/ele-min.aa4eb995.png": "/static/media/ele-min.aa4eb995.png",
+    "static/media/ele-prcp.4035ad6f.png": "/static/media/ele-prcp.4035ad6f.png",
+    "static/media/ele-snow.7745a12b.png": "/static/media/ele-snow.7745a12b.png",
+    "static/media/lat-avg.cef9d1a8.png": "/static/media/lat-avg.cef9d1a8.png",
+    "static/media/lat-max.016a2d16.png": "/static/media/lat-max.016a2d16.png",
+    "static/media/lat-min.a14fde89.png": "/static/media/lat-min.a14fde89.png",
+    "static/media/lat-prcp.843b81d3.png": "/static/media/lat-prcp.843b81d3.png",
+    "static/media/lat-snow.f39cd535.png": "/static/media/lat-snow.f39cd535.png",
+    "static/media/lon-avg.80de7880.png": "/static/media/lon-avg.80de7880.png",
+    "static/media/lon-max.2bf9bb97.png": "/static/media/lon-max.2bf9bb97.png",
+    "static/media/lon-min.0ba51a76.png": "/static/media/lon-min.0ba51a76.png",
+    "static/media/lon-prcp.5bd6b73a.png": "/static/media/lon-prcp.5bd6b73a.png",
+    "static/media/lon-snow.8298432f.png": "/static/media/lon-snow.8298432f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35f39161.js",
+    "static/js/2.ac11e7b4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.34f3e222.chunk.js"
+  ]
+}
